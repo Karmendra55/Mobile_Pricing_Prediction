@@ -1,0 +1,22 @@
+{
+    "wifi": 1,
+    "sc_h": 16,
+    "blue": 1,
+    "mobile_wt": 233,
+    "four_g": 1,
+    "dual_sim": 0,
+    "three_g": 1,
+    "px_height": 1200,
+    "fc": 4,
+    "px_width": 300,
+    "int_memory": 198,
+    "battery_power": 3990,
+    "touch_screen": 1,
+    "talk_time": 13,
+    "sc_w": 6,
+    "pc": 6,
+    "clock_speed": 2.2,
+    "ram": 2432,
+    "n_cores": 5,
+    "m_dep": 0.67
+}

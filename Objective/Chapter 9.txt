@@ -1,0 +1,32 @@
+9.2 
+Correlation Heatmap ✔
+Pairplot ✔
+Prediction Probability Distribution ✔
+RAM by price ✔
+ROC Curve ✔
+Top Important Features ✔
+
+9.3  ✔
+Classification Report and Result Confusion Matrix ✔
+3G by Price, 4G by Price, Battery By Price, Dual Sim Price Range, Touch Screen by Price, Wifi by Price Range. ✔
+Distrubution RAM, Battery, Weight, Px Height, Width, ✔
+Pixel Dim vs Price Range ✔
+
+
+9.4 Sample Prediction, ✔
+Cross-Validation and Mean CV Accuracy ✔
+Table: XGBoost, LightGBM, Random Forest (~89.25%)
+
+10.1 System Architecture 
+Interface ✔
+
+10.2 Prediction and Result Processing
+Predict Button, Sample Result ✔
+
+10.3 Application flow and Comparsion Navigation
+
+10.4 SideBar and Personalization
+
+10.5 Popular Phone Application
+
+10.6 Running Application
