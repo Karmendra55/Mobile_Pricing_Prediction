@@ -46,8 +46,8 @@ Or
 
 ## Features
 
-Phone Price Predictor → Accepts inputs like RAM, camera, battery, clock speed, etc., and predicts the price using a trained ML model.
-Session Manager → Each prediction is stored with a timestamp and can be viewed or deleted later.
-Comparison Tool → Allows side-by-side price comparison of multiple phone configurations.
-Parody Shop → Simulated product listing interface for user-customized phones.
-Specification Formatter → Converts raw data into a clean, human-readable spec sheet.
+1. Phone Price Predictor → Accepts inputs like RAM, camera, battery, clock speed, etc., and predicts the price using a trained ML model.
+2. Session Manager → Each prediction is stored with a timestamp and can be viewed or deleted later.
+3. Comparison Tool → Allows side-by-side price comparison of multiple phone configurations.
+4. Parody Shop → Simulated product listing interface for user-customized phones.
+5. Specification Formatter → Converts raw data into a clean, human-readable spec sheet.
