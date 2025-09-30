@@ -31,11 +31,11 @@ Or
 
 ## Model
 
->Model: Random Forest Classification model trained using scikit-learn.
->Dataset: Mobile price/specification dataset with features like:
-   a)RAM, Internal Memory, Battery, Clock Speed
-   b)Number of Cores, Front/Back Camera, Weight, etc.
->Output: Predicted price range or exact price depending on model type.
+- Model: Random Forest Classification model trained using scikit-learn.
+- Dataset: Mobile price/specification dataset with features like:
+   - RAM, Internal Memory, Battery, Clock Speed
+   - Number of Cores, Front/Back Camera, Weight, etc.
+- Output: Predicted price range or exact price depending on model type.
 
 ## Highlights
 
