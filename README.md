@@ -9,34 +9,52 @@ The Dataset and Models are already in place, If you want to change the files you
 ``` markdown
 > Original_dataset/
 >    dataset.csv
+> ../
+>    Clean_Mobile_Data.csv
 
-> trained_model/
->    thyroid_recurrence_rf.pkl
->    thyroid_recurrence_rf_only.pkl
+> ../
+>    final_mobile_price_model.pkl
+>    best_rd_model.pkl
+>    scaler.pkl
 ```
 
 make sure that all the files are present in the root folder.
 
 ## Quickstart
 
+1) Create and activate a virtual environment
+```bash
+python -m venv .venv
+```
+For Linux or Max:
+```bash
+source .venv/bin/activate
+```
+For Windows:
+```bash
+.venv\Scripts\activate
+```
 
+2) Now Run the file to install the dependencies
+```bash
+install_modules.bat
+```
 
-## Installation
+Run the Application
+3a) Option A
+```bash
+run.bat
+```
 
-> Run the `install_modules.bat` file 
-then follow the steps below
-
-python -m venv venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-
-Make sure all the files are present in the root folder
-
-pip install -r requirements.txt
-
-## Run the Program
->> streamlit run main.py
-Or
-> Open the `run.bat` file in the root folder.
+3b) Option B
+- Open the command/bash and do the follow:
+```bash
+cd {"Drive:/file/.../Mobile_Phone_Pricing/"}
+```
+and type
+```bash
+streamlit run main.py
+```
 
 ## Model
 
