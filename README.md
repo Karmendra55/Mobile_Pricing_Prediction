@@ -1,16 +1,25 @@
 # Mobile Phone Pricing Prediction
 
-This Streamlit web application allows users to:
-- Predict the price of a mobile phone using specifications.
-- Compare predicted prices across multiple inputs.
-- View cleaned and formatted phone specifications.
+A Streamlit-based web application to predict mobile phone prices using specifications, compare predictions across multiple inputs, and view structured phone specification data in a clean format.
 
-## Features
+## Dataset Layout
 
-- Predict phone prices based on features like RAM, Battery, Camera, etc.
-- Save and manage multiple prediction sessions.
-- Compare predictions side-by-side.
-- View mobile specifications in a user-friendly format.
+The Dataset and Models are already in place, If you want to change the files you can replace these:
+
+``` markdown
+> Original_dataset/
+>    dataset.csv
+
+> trained_model/
+>    thyroid_recurrence_rf.pkl
+>    thyroid_recurrence_rf_only.pkl
+```
+
+make sure that all the files are present in the root folder.
+
+## Quickstart
+
+
 
 ## Installation
 
